@@ -1,0 +1,73 @@
+
+<bookmarks>
+	<group name="root">
+		<group name="BBC">
+		<bookmark name="Radio2" url="http://bbc.co.uk/radio/listen/live/r2.asx"/>
+		<bookmark name="Radio4" url="http://bbc.co.uk/radio/listen/live/r4.asx"/>
+		<bookmark name="Radio4Xtra" url="http://bbc.co.uk/radio/listen/live/r4x.asx"/>
+		<bookmark name="Radio6" url="http://bbc.co.uk/radio/listen/live/r6.asx"/>
+		<bookmark name="World Service" url="http://www.bbc.co.uk/worldservice/meta/tx/nb/live_ennws_au_nb.asx"/>
+		</group>
+		<group name="Chill">
+			<bookmark name="Groove Salad" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1325107"/>;
+			<bookmark name="181.FM" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275050"/>
+			<bookmark name="Lounge Radio" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1288934"/>
+			<bookmark name="SKY.fm Dreamscapes" url="http://www.sky.fm/mp3/dreamscapes.pls"/>
+			<bookmark name="Di.fm: Ambient" url="http://listen.di.fm/public2/ambient.pls"/>
+			<bookmark name="Di.fm: Lounge" url="http://listen.di.fm/public2/lounge.pls"/>
+
+		</group>
+		<group name="Country"><bookmark name="SKY.fm Country" url="http://www.sky.fm/mp3/country.pls"/>
+		</group>
+		<group name="Classic Rock">
+			<bookmark name="181.FM Classic Hits" url="http://sc-rly.181.fm:80/stream/1094"/>
+			<bookmark name=".977 Classic Rock" url="http://www.977music.com/tunein/web/classicrock.asx"/>
+		</group>
+		<group name="Classical">
+			<bookmark name="KDFC" url="http://provisioning.streamtheworld.com/pls/KDFCFM.pls"/>
+			<bookmark name="Classic FM" url="http://media-ice.musicradio.com/ClassicFMMP3.m3u"/>
+			<bookmark name="WCPE" url="http://www.ibiblio.org/wcpe/wcpe.pls"/>
+			<bookmark name="CINEMIX" url="http://cinemix.us/cine.asx"/>
+			<bookmark name="SKY.fm Classical Piano Trios" url="http://www.sky.fm/mp3/classicalpianotrios.pls"/>
+		</group>
+		<group name="Easy Listening">
+			<bookmark name="Choice Radio Women" url="http://syndication.choiceradio.com/zap.cfm?og=402&amp;broadband=true&amp;pid=5"/>
+		</group>
+		<group name="Electronica-Dance / DJ">
+			<bookmark name="SKY.fm Dance Hits" url="http://www.sky.fm/mp3/dancehits.pls"/>
+		</group>
+		<group name="Jazz">
+			<bookmark name="Smooth Jazz" url="http://smoothjazz.com/streams/smoothjazz_128.pls"/>;
+			<bookmark name="Cool Jazz" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=30773"/>
+			<bookmark name="Trumpet Jazz" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377234"/>
+			<bookmark name="SKY.fm Uptempo Smooth Jazz" url="http://www.sky.fm/mp3/uptemposmoothjazz.pls"/>
+			<bookmark name="SKY.fm Vocal Smooth Jazz" url="http://www.sky.fm/mp3/vocalsmoothjazz.pls"/>
+			<bookmark name="SKY.fm Jazz Classics" url="http://www.sky.fm/mp3/jazzclassics.pls"/>
+		</group>
+		<group name="Latin">
+			<bookmark name="Onda Tropical" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=506392"/>
+			<bookmark name="Top Latino Radio" url="http://online.radiodifusion.net:8020/listen.pls"/>
+			<bookmark name="Salsa Stream" url="http://listen.sky.fm/public3/salsa.pls"/>
+		</group>
+		<group name="Oldies">
+			<bookmark name="AM 1710" url="http://lin2.ash.fast-serv.com:9022/listen.pls"/>
+			<bookmark name="WNAR" url="http://live.wnar-am.com:8500/listen.pls"/>
+			<bookmark name="SKY.fm All Hits 70s" url="http://www.sky.fm/mp3/hit70s.pls"/>
+			<bookmark name="SKY.fm Best of the 80s" url="http://www.sky.fm/mp3/the80s.pls"/>
+			<bookmark name="SKY.fm Oldies" url="http://www.sky.fm/mp3/oldies.pls"/>
+		</group>
+		<group name="Pop / Rock">
+			<bookmark name="Radio Paradise" url="http://www.radioparadise.com/musiclinks/rp_128aac.m3u"/>; <bookmark name=".977 The Hitz Channel" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280356"/>
+			<bookmark name="Enjoy Station" url="http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377285"/>
+			<bookmark name="80s Sky.FM" url="http://listen.sky.fm/public3/the80s.pls"/>; <bookmark name="SKY.fm Love Music" url="http://www.sky.fm/mp3/lovemusic.pls"/>
+			<bookmark name="SKY.fm Alternative Rock" url="http://www.sky.fm/mp3/altrock.pls"/>
+			<bookmark name="SKY.fm Classic Rock" url="http://www.sky.fm/mp3/classicrock.pls"/>
+		</group>
+		<group name="Piano">
+			<bookmark name="SKY.fm Solo Piano" url="http://www.sky.fm/mp3/solopiano.pls"/>
+		</group>
+		
+		<group name="Soundtracks">
+			<bookmark name="SKY.fm Simply Soundtracks" url="http://www.sky.fm/mp3/soundtracks.pls"/>
+		</group>
+	</group>; </bookmarks>
